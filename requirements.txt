@@ -1,0 +1,3 @@
+hydrogram==0.2.0
+Tgcrypto==1.2.5
+Flask==3.0.2
